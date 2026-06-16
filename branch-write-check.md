@@ -1,7 +1,9 @@
 # Branch Write Check
 
-This file was created on `mcp/write-smoke-branch` via GitHub MCP.
+This file was created and then updated on `mcp/write-smoke-branch` via GitHub MCP.
 
-Purpose:
-- verify branch-scoped file creation
-- prepare a harmless pull request
+Verified:
+- branch-scoped file creation
+- existing file update with SHA
+
+No secrets or personal data are included.
